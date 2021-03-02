@@ -1,0 +1,56 @@
+body{
+    font-family: sans-serif;
+    background: #ffff;
+
+}
+
+#main{
+    background: #eee;
+    border-radius: 10px;
+    margin: 30px 8px;
+    padding: 15px;
+
+
+}
+
+
+.banner{
+    text-align: center;
+    padding: 2px;
+    font-size: 20px;
+}
+
+.imagen {
+    border-radius: 8px;
+    text-align: center;
+    background: #ffff;
+    padding-bottom: 4px;
+    margin: 10px;
+    font-size: 18px;
+
+
+}
+.imagen img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
+
+.contenido{
+    display: block;
+    font-size: 20px;
+}
+#headline{
+    margin: 50px auto;
+    text-align: center;
+}
+ul{
+    max-width: 550px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+
+}
+.wiki{
+    text-align: center;
+}
+
